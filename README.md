@@ -5,15 +5,15 @@
 This is about the Prompt Engineering. 
 
 ### 01. General Prompt Types
-1. Zero-Shot Prompt
-2. Few-Shot Prompt
-3. Chain-of-Thought (CoT) Prompting.md
-4. Role-Playing Prompt.md
-5. Instruction-Based or Action-Oriented Prompt.md
-6. Comparative Prompt.md
-7. Open-Ended or Creative Prompt.md
-8. One-Shot Prompt.md
-9. Format-Specific Prompt.md
+[1. Zero-Shot Prompt](https://github.com/mahesrao/Prompt-Engineering/blob/main/01.%20General%20Prompt%20Types/1.%20Zero-Shot%20Prompt.md)
+[2. Few-Shot Prompt](https://github.com/mahesrao/Prompt-Engineering/blob/main/01.%20General%20Prompt%20Types/2.%20Few-Shot%20Prompt.md)
+[3. Chain-of-Thought (CoT) Prompting](https://github.com/mahesrao/Prompt-Engineering/blob/main/01.%20General%20Prompt%20Types/3.%20Chain-of-Thought%20(CoT)%20Prompting.md)
+[4. Role-Playing Prompt](https://github.com/mahesrao/Prompt-Engineering/blob/main/01.%20General%20Prompt%20Types/4.%20Role-Playing%20Prompt.md)
+[5. Instruction-Based or Action-Oriented Prompt](https://github.com/mahesrao/Prompt-Engineering/blob/main/01.%20General%20Prompt%20Types/5.%20Instruction-Based%20or%20Action-Oriented%20Prompt.md)
+[6. Comparative Prompt](https://github.com/mahesrao/Prompt-Engineering/blob/main/01.%20General%20Prompt%20Types/6.%20Comparative%20Prompt.md)
+[7. Open-Ended or Creative Prompt](https://github.com/mahesrao/Prompt-Engineering/blob/main/01.%20General%20Prompt%20Types/7.%20Open-Ended%20or%20Creative%20Prompt.md)
+[8. One-Shot Prompt](https://github.com/mahesrao/Prompt-Engineering/blob/main/01.%20General%20Prompt%20Types/8.%20One-Shot%20Prompt.md)
+[9. Format-Specific Prompt](https://github.com/mahesrao/Prompt-Engineering/blob/main/01.%20General%20Prompt%20Types/9.%20Format-Specific%20Prompt.md)
 
 ### 02. Advanced Prompt Types
 10. Self-Consistency or Self-Critique Prompt.md
