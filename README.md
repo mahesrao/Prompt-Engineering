@@ -1,7 +1,7 @@
 This is about the Prompt Engineering. 
 
 01. General Prompt Types
-1. Zero-Shot Prompt
+[1. Zero-Shot Prompt](./1.%20Zero-Shot%20Prompt.md)
 2. Few-Shot Prompt
 3. Chain-of-Thought (CoT) Prompting.md
 4. Role-Playing Prompt.md
